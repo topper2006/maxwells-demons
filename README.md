@@ -1,9 +1,7 @@
 # Explainable Credit Intelligence Platform  
 **Real-Time, Transparent, and Evidence-Backed Creditworthiness Scoring**
 
-![Dashboard Preview](./assets/dashboard_preview.png)
 
----
 
 ## 📌 Overview  
 This repository contains the implementation of the **Explainable Credit Intelligence Platform**, developed for the **CredTech Hackathon** organized by *The Programming Club, IITK* and powered by *Deep Root Investments*.  

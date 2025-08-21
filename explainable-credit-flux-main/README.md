@@ -1,7 +1,6 @@
 # Explainable Credit Intelligence Platform  
 **Real-Time, Transparent, and Evidence-Backed Creditworthiness Scoring**
 
-![Dashboard Preview](./assets/dashboard_preview.png)
 
 ---
 
@@ -156,3 +155,4 @@ flowchart LR
 
 ## 📜 License  
 This project is licensed under the MIT License.  
+
